@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="answer">Answer</string>
+    <string name="question">Question?</string>
+    <string name="enter_question">Enter question:</string>
+    <string name="last_answer">Last answer:</string>
+    <string name="operation_was_canceled">Operation was canceled</string>
+</resources>
